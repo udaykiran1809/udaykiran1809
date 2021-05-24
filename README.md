@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @udaykiran1809
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning AI
